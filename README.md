@@ -1,2 +1,2 @@
 # new
-this is the practice git hub
+this is the git hub that i will turn in
